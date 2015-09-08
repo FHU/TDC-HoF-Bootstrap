@@ -9,6 +9,47 @@ section h2 {
     text-align:center;
 }
 
+.likeButton span {
+    font-size: 2em;
+    line-height: 60px;`
+}
+
+.panel-heading {
+    padding-right: 30px;
+}
+
+.panel-heading h3 img {
+    width: 60px;
+    border-radius: 3px;
+    margin: 5px 10px 5px 0;
+}
+
+.panel-heading h3 {
+    font-size: 1.6em;
+}
+
+.panel-body {
+    font-size: 1.3em;
+    /*padding-left: 90px;
+    padding-right: 90px*/
+}
+
+.panel-body p {
+    /*margin-left: 75px;*/
+}
+
+/*.panel-heading {
+    overflow:auto;
+}
+
+.panel-heading h3 {
+    width: 90%;
+}
+
+.panel-heading a {
+    float: right;
+}*/
+
 footer p {
     text-align: center;
 }
